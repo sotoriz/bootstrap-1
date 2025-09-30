@@ -1,0 +1,10 @@
+.longheight{
+    height: 400px;
+}
+
+@media(max-width:768px){
+    .longheight{
+        height: 150px;
+
+    }
+}
